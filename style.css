@@ -1,0 +1,88 @@
+*{
+    font-family: "Titillium Web", sans-serif;
+}
+
+
+
+.nav-item a{
+    color: #4A0000;
+    font-size: 18px;
+    
+}
+
+.nav-link button{
+    background: #4A0000;
+    border-radius: 5px;
+    color: azure;
+    border: none;
+}
+
+.nav-link button:hover{
+    background:#6B4A36;
+}
+
+.nav-link i{
+    font-size: 40px;
+    color: #4A0000;
+}
+
+.overlay{
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.hero p{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.hero h1{
+    font-size: 80px;
+    font-weight: 800;
+}
+.hero a{
+    
+    background-color: #4A0000;
+    font-size: 20px;
+    
+}
+.hero a:hover{
+    background-color: #190a01;
+}
+
+.viewbtn{
+    background-color: #4A0000;
+    color: azure;
+    
+}
+
+.viewbtn:hover{
+    background-color: #190a01;
+}
+
+.about-content{
+    text-align: justify;
+    color: #4A0000;
+}
+.about-content button{
+    background-color: white;
+    border: 3px solid #4A0000;
+    color: #4A0000;
+}
+.about-content button:hover{
+    background-color:#4A0000;
+    color: white;
+    transition:  2s ease-out;
+}
+
+
+.footrow{
+    background-color: #4A0000;
+    color: azure;
+}
+
+.contacticons i{
+    color: azure;
+}
+.contacticons i:hover{
+    color: #6B4A36;
+}
